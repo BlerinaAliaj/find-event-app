@@ -1,0 +1,8 @@
+secrets.sh
+first_project.py
+*.pyc
+build
+readme.md
+README
+setup.py
+test.py
